@@ -1,4 +1,4 @@
-### 오늘부터 열심히 해야지 👋
+### let's work hard just for today 👋
 
 <!--
 **JisangYou/JisangYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
