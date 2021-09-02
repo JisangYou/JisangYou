@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Jay-You's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisangYou)](https://github.com/JisangYou)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisangYou&layout=compact)](https://github.com/JisangYou)
+
