@@ -1,4 +1,4 @@
-### Hi There, I'm Jay-You 👋
+### Hi There, I'm Jay-Yoo👋
 I am an android developer :)
 
 <!--
